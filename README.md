@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SZ-Aarica
+- 👋 Hi, I’m Aarica
 - 👀 I’m interested in Coding, languages and sports
 - 🌱 I’m done learning Html, Css, js and React and i just recently learned php with Laravel as well...
     i got the UI certificate from the shecode community https://www.shecodes.io/
